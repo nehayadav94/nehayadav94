@@ -1,5 +1,13 @@
-### Hi there 👋
 
+<a href="https://www.linkedin.com/in/nehayadav94/">
+  <img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nehayadav94@gmail.com">
+  <img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+### Hey there 👋
 <!--
 **nehayadav94/nehayadav94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

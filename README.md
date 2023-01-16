@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=nehayadav94&color=000000&style=for-the-badge)
 
 <a href="https://www.linkedin.com/in/nehayadav94/">
   <img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>

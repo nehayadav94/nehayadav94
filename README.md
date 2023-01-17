@@ -35,11 +35,6 @@
 
 ###
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nehayadav94"/>
-</div>
-
-###
-<div>
 If you have any questions or would like to work with me, feel free to reach out to me on LinkedIn or Twitter. I'd love to connect and chat about technology, programming, and more. Cheers! :beers:
 </div>
 
@@ -56,4 +51,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+                                                                                                                          
+###
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nehayadav94"/>
+</div>
 -->

@@ -12,6 +12,10 @@
 <img height = "25" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
+<a href="https://medium.com/@nehayadav94">
+<img height = "25" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
 ### Hey there! 👋
 
 My name is Neha Yadav and I am an iOS Developer. Welcome to my GitHub profile! Here you can find a collection of my personal projects and a glimpse of my technical skills.

@@ -18,7 +18,9 @@
 
 ### Hey there! 👋
 
-My name is Neha Yadav and I am an iOS Developer. Welcome to my GitHub profile! Here you can find a collection of my personal projects and a glimpse of my technical skills.
+My name is Neha Yadav and I am an iOS Developer. Welcome to my GitHub profile!
+
+I'm a passionate and experienced iOS developer with over 6 years of expertise in crafting beautiful and efficient mobile applications using Swift. I have a strong track record of successfully developing apps from scratch and turning creative ideas into functional and user-friendly products. Here you can find a collection of my personal projects and a glimpse of my technical skills.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

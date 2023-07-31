@@ -16,11 +16,20 @@
 <img height = "25" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-### Hey there! 👋
+### Hey there! 👋 
 
 My name is Neha Yadav. Welcome to my GitHub profile!
 
 I'm a passionate and experienced iOS developer with over 6 years of expertise in crafting beautiful and efficient mobile applications using Swift. I have a strong track record of successfully developing apps from scratch and turning creative ideas into functional and user-friendly products. Here you can find a collection of my personal projects and a glimpse of my technical skills.
+
+### My Skills and Expertise
+- **Programming Languages:** Swift, Objective-C
+- **iOS Development:** UIKit, SwiftUI, Core Data, Core Animation, Auto Layout
+- **Version Control:** Git, GitHub
+- **Software Architecture:** MVC, MVVM
+- **Project Management Tools:** Jira, Trello
+- **Design Tools:** Figma, Avocode
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

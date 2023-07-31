@@ -52,7 +52,9 @@ I'm a passionate and experienced iOS developer with over 6 years of expertise in
 
 ###
 <div>
-If you have any questions or would like to work with me, feel free to reach out to me on LinkedIn or Twitter. I'd love to connect and chat about technology, programming, and more. Cheers! :beers:
+I am actively seeking exciting freelancing opportunities in iOS development domain, and I am also open to consulting and full-time positions. Whether it's crafting apps from the ground up, enhancing existing projects, or fine-tuning codebases, I am well-equipped to tackle diverse challenges.
+
+If you have any inquiries or are interested in collaborating, don't hesitate to contact me via LinkedIn or Twitter. I'm eager to connect and engage in discussions about technology, programming, and beyond. Cheers! :beers:
 </div>
 
 <!--
